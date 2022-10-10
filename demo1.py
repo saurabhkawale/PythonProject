@@ -5,9 +5,10 @@
 num1 = 1.5
 num2 = 6.3
 num3=56
+num4=85
 
 # Add two numbers
-sum = num1 + num2 + num2
+sum = num1 + num2 + num4
 
 
 sub =num2-num1
